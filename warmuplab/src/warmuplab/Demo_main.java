@@ -7,6 +7,7 @@ public class Demo_main {
 
 		Hello h=new Hello();
 		h.display();
+		System.out.print(":D :D :D);
 	}
 
 }
